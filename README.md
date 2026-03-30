@@ -63,9 +63,7 @@
 
 ## Connect with Me
 
-  
-- Email: khushbushahare77@gmail.com  
-- Naukri: (Add your Naukri profile link)
+  - Email: khushbushahare77@gmail.com  
 
 ---
 
