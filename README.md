@@ -1,16 +1,74 @@
-## Hi there 👋
+# Hi, I'm Khushbu Randive
 
-<!--
-**khushbu300/khushbu300** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Data Analyst | Python | SQL | Power BI | Excel
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+- Detail-oriented Data Analyst with strong skills in Python, SQL, and Power BI  
+- Experienced in Data Cleaning, Exploratory Data Analysis (EDA), and Dashboarding  
+- Worked on real-world datasets including World Bank, E-commerce, and NLP projects  
+- Passionate about transforming raw data into actionable business insights  
+- Strong foundation in Statistics and Data Visualization  
+
+---
+
+## Projects
+
+### Data Analysis Projects
+
+- **World Bank Data Analysis**  
+  Analyzed global development data for 200+ countries using Python and built Power BI dashboards to identify trends  
+
+- **E-Commerce Data Analysis (SQL)**  
+  Performed SQL-based EDA on 500+ products using joins, window functions, and outlier detection  
+
+---
+
+### Database Project
+
+- **Hospital Database System (MySQL)**  
+  Designed normalized database with constraints, triggers, and stored procedures for efficient data management  
+
+---
+
+### NLP & Machine Learning
+
+- **Text Analytics & NLP Project**  
+  Built sentiment analysis and text classification system using Python and Streamlit  
+
+- **User Management System (Streamlit)**  
+  Developed interactive application with data handling and visualization features  
+
+---
+
+## Skills & Tools
+
+- **Languages & Databases:** Python, SQL, MySQL  
+- **Libraries:** Pandas, NumPy, Matplotlib, Seaborn  
+- **Visualization:** Power BI, Excel, Tableau  
+- **Core Skills:** Data Cleaning, EDA, Statistical Analysis, Dashboarding  
+
+---
+
+## Ask Me About
+
+- Data Analysis  
+- SQL Queries & Optimization  
+- Dashboard Development  
+- Data Cleaning & Transformation  
+
+---
+
+## Connect with Me
+
+- LinkedIn: https://www.linkedin.com/in/your-link  
+- Email: khushbushahare77@gmail.com  
+- Naukri: (Add your Naukri profile link)
+
+---
+
+## Goal
+
+To start my career as a Data Analyst and contribute to data-driven decision making using analytical and visualization skills.
