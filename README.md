@@ -24,10 +24,6 @@
 - **E-Commerce Data Analysis (SQL)**  
   Performed SQL-based EDA on 500+ products using joins, window functions, and outlier detection  
 
----
-
-### Database Project
-
 - **Hospital Database System (MySQL)**  
   Designed normalized database with constraints, triggers, and stored procedures for efficient data management  
 
