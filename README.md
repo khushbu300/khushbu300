@@ -19,13 +19,13 @@
 ### Data Analysis Projects
 
 - **World Bank Data Analysis** https://github.com/khushbu300/world-bank-data-analysis
-- Analyzed global development data for 200+ countries using Python and built Power BI dashboards to identify trends  
+ Analyzed global development data for 200+ countries using Python and built Power BI dashboards to identify trends  
 
 - **E-Commerce Data Analysis (SQL)** https://github.com/khushbu300/EDA-on-Electronics-E-commerce-Dataset-SQL-
-- Performed SQL-based EDA on 500+ products using joins, window functions, and outlier detection  
+ Performed SQL-based EDA on 500+ products using joins, window functions, and outlier detection  
 
 - **Hospital Database System (MySQL)**  https://github.com/khushbu300/Hospital-Database-Creation-and-Data-Migration
--- Designed normalized database with constraints, triggers, and stored procedures for efficient data management  
+   Designed normalized database with constraints, triggers, and stored procedures for efficient data management  
 
 ---
 
