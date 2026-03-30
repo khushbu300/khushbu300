@@ -1,4 +1,4 @@
-# Hi, I'm Khushbu Randive
+# 👋 Hi, I'm Khushbu Randive
 
 ## Data Analyst | Python | SQL | Power BI | Excel
 
