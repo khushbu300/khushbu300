@@ -63,7 +63,7 @@
 
 ## Connect with Me
 
-- LinkedIn: https://www.linkedin.com/in/your-link  
+  
 - Email: khushbushahare77@gmail.com  
 - Naukri: (Add your Naukri profile link)
 
