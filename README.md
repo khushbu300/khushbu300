@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Khushbu Randive
 
-## Data Analyst | Python | SQL | Power BI | Excel
+## Data Analyst | Python | SQL | Power BI | Advanced Excel
 
 ---
 
